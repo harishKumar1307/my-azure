@@ -199,4 +199,3 @@ resource "null_resource" "configure-cat-app" {
     }
   }
 }
-
